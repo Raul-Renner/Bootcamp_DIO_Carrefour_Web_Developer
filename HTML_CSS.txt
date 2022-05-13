@@ -1,0 +1,92 @@
+1 -  o que é um browser e como ele interpreta a internet
+    Existe formas de acessar a internet sem um browser,existem varias formas. Porém, para ver um site, é preciso
+    um programa que interprete as linguagens de programação (LP) e as transforme em algo compreensivel por um humano
+    
+    - Um browser sabe identificar várias LP, linguagens de marcação e conteúdo multimedia
+    - browsers fazem muito mais que isso, podem ser instalados plug-in, ou add-ons que ajudam na navegação
+    - Além da utilização de Cache e cookies, para gravar ou guarda certas coisas que podem ser reutilizados, como sites,
+    senhas, dados de pesquisa e etc...
+
+    * Página estática x dinâmica
+
+
+2 - o que é um site,aplicativo, e-commerce
+    - Site 
+        * Página da internet
+        * Serve para diversos propositos
+        * Pode ser desenvolvida em diversas LP
+        * D/XHTML caindo em desusos
+    
+    - Aplicativo
+        * Um Software que é executado no navegador
+        * Um aplicativo de celular, muitas das vezes, nada mais é que uma especie de navegador
+        * Quase nao existe diferença entre site e aplicativo, site está em declineo
+        * terminologia entre programa/software e aplicativo está sumindo 
+
+    - e-commerce
+        * "E" assim como do "E-mail", significa "eletronic"
+        * Um comercio eletronico de compra e venda com sistema de pagamento
+        * O sistema de pagamento pode ser exterior ao site
+        * PicPay,Boleto,Paypal são exemplos de e-commerce
+
+3 - o que é um web-server, para que serve e onde encontra-lo
+        WEB-SERVER
+        - Existem 2 tipos: Estático e dinâmico 
+          * O estático é um servidor fisico onde são armazenados arquivos,softwares ou banco de dados
+           - Servidor de arquivos
+           - Servidor de aplicação
+           - Banco de dados
+           - Tudo junto e misturado (outros acima)
+
+          * o dinâmico se refere aos softwares que estão presentes no servidor fisico
+            - Uma aplicação deve estar hospedada em um servidor para poder ser acessado
+            - Os dados de uma aplicação deve estar em um servidor 
+            - o banco de dados de um site deve estar em servidor
+
+        WEB-SERVICE     
+        Interface disponivel para fazer requisições e consultas em bancos de dados inacessiveis (Correio, Governo)
+        
+--> STACKS
+    Ferramentas disponiveis para desenvolver/projetar algo
+    - Pilhas de tecnologia 
+    - Conjunto de softwares necessários e suficientes para executar um aplicativo/programa
+    - Linguagens de programação
+    - Ambientes e ferramentas de interação com app/software(sw)
+    - Capacidade e limitação de performance
+    - Pontos fortes e fracos do app/sw
+
+    Os lideres de projetos precisam das informações das equipes de desenvolvimento
+    Os desenvolvedores precisam saber as limitações e capacidades das ferramentas e ambientes que tem disponiveis.
+        (Sistemas,banco de dados,LPs, protocolos de comunicação)
+    
+    É importante para a estratégias de negócios, maturidade, contratações, planos de mitigações de riscos,
+    aumento da capacidade, uso dos dados.
+
+    - FRONT-END
+        * Parte visivel, "Parte da frente", que será demonstrada para o usuário
+        * Site, Software, App, Web Service
+        * Interface, UI/UX
+        * LP, HTML, CSS, JQUERY/JS/PHP Bootstrap/outros frameworks
+    - BACK-END
+        * Baixo dos panos, "Parte de trás", Stages
+        * Servidores, banco de dados, planos
+        * "meio-campo" entre interface e banco de dados,regras de negocio, validações 
+        * Mysql,Oracle,protocolos de comunicação, PHP, Java, node.js
+    - FULL STACK
+        * Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de um app/sw
+ 
+--> LPs e termos
+
+    - 404
+    - Algoritmos
+    - ALT
+    - API
+    - aplicação
+    - Back-end
+    - Biblioteca/dll 
+    - Bootstrap
+    - Breakpoints
+    - Meta tags
+    - SSL 
+    - WYSIWYG 
+    - UI/UX - utlizar uma dinamica para usuario encontrar uma certa funcionalidade em poucos segundos 
